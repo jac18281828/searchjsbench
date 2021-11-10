@@ -1,0 +1,10 @@
+[
+{
+        "name": "firstfield",
+        "filter": {"status":"confirmed"}
+},
+{
+        "name": "lastfield",
+        "filter": {"direction":"incoming"}
+}
+]

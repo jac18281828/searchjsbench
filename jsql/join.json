@@ -1,0 +1,6 @@
+[
+{
+        "name": "gas",
+        "filter": {"_join":"or", "status": "confirmed", "gas": {"gte": 220000}}
+}
+]
