@@ -8,7 +8,10 @@ Timing is performed using Node.JS with the NanoTimer package.   The data set is 
 
 ### Hardware
 
-Timing is performed on '19 i7 MacBook Pro running Docker from a Debian stable-slim base image.
+Timing is performed on MacBook Pro running Docker from a Debian stable-slim base image.
+
+#### using i7 2019 MacBook Pro (Unscientific)
+#### Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
 
 
 ### Caveat 

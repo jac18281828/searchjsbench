@@ -1,13 +1,14 @@
 {
   "compilerOptions": {
     "outDir": "dist",
-    "target": "esnext",
+    "target": "es5",
     "module": "commonjs",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "rootDir": ".",
+    "removeComments": true    
   },
   "include": [
     "src/**/*",

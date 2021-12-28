@@ -1,12 +1,12 @@
 'use-strict'
 
-import {matchObject} from 'searchjs'
+import { matchObject } from 'searchjs'
 import NanoTimer from 'nanotimer'
 
-import {loadJson} from './loadtxn'
-import {percentile} from './percentile'
+import { loadJson } from './loadtxn'
+import { percentile } from './percentile'
 
-const TRANSACTION_DATA = './data/txn1000.json'
+const TRANSACTION_DATA = './data/event.json'
 
 class FilterBenchmark {
 
